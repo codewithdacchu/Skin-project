@@ -10,7 +10,7 @@ from google import genai
 # --- 0. ENVIRONMENT SETUP ---
 # CRITICAL: This line sets the environment variable internally.
 # Replace the placeholder key with your actual, clean API key (no quotes inside the value).
-os.environ['GEMINI_API_KEY'] = 'AIzaSyBWFwU1LH_B6ks2q3ZAvIeEIpIIINxhQs4'
+os.environ['GEMINI_API_KEY'] = 'GEMINI_key'
 
 
 # --- 1. MODEL SETUP & LOADING ---
