@@ -1,0 +1,16 @@
+Upload a Clear Skin Image for Analysis,Average Sleep (Hours/Night),Daily Water Intake,Perceived Stress Level,output,timestamp
+.gradio\flagged\Upload a Clear Skin Image for Analysis\c986275283b577293080\acne-treatments.webp,7,Medium (4-8 glasses),Medium,"## 🔬 AI Skin Analysis Result:
+**Predicted Condition:** **Redness**
+**Confidence Level:** 63.29%
+
+---
+### ✨ Personalized Insights & Health Tips (Chatbot):
+* **Condition Focus:** Focus on calming and barrier repair. Look for ingredients like Niacinamide or Centella Asiatica (Cica).
+    ",2025-11-15 22:34:08.417412
+.gradio\flagged\Upload a Clear Skin Image for Analysis\ad71881d17a501812e7f\acne-treatments.webp,7,Medium (4-8 glasses),Medium,"## 🔬 AI Skin Analysis Result:
+**Predicted Condition:** **Redness**
+**Confidence Level:** 63.29%
+
+---
+ERROR: AI Chatbot not active. Please set the GEMINI_API_KEY environment variable securely.
+    ",2025-11-15 22:58:41.626184
